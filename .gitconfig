@@ -1,0 +1,8 @@
+[user]
+    email = chris@planner.net.br
+	name = xiris
+[core]
+    filemode = false
+[push]
+    default = matching
+
