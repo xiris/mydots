@@ -12,5 +12,5 @@ All my config files are here to quickly setup my environments :)
 TODO
 ----
 
-* Create a script to automatize Arch install with my preferred softwares
-* Create a post-install script to setup everything
+* Create script to install my preferred programs in Arch
+* Create post-install script to setup everything
